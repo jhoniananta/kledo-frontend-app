@@ -18,4 +18,4 @@ npm install
 npm run dev
 ```
 
-### Link can be accessed at [http://localhost:5173](http://localhost:5173)
+### Link can be accessed at [https://kledo-frontend-app.vercel.app/](https://kledo-frontend-app.vercel.app/)
